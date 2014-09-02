@@ -1,4 +1,4 @@
-FROM centos
+FROM centos6
 
 MAINTAINER Aleksandr Mylnikov, alex@mylnikov.org
 
